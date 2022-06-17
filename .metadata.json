@@ -1,0 +1,10 @@
+[
+  {
+    "package": "endoSwitch",
+    "oncran": true
+  },
+  {
+    "package": "usdampr",
+    "oncran": true
+  }
+]
