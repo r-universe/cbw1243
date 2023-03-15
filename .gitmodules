@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "usdampr"]
-	path = usdampr
-	url = https://github.com/cbw1243/usdampr
-	shallow = true
-	registered = true
 [submodule "endoSwitch"]
 	path = endoSwitch
 	url = https://github.com/cbw1243/endoswitch
+	shallow = true
+	registered = true
+[submodule "usdampr"]
+	path = usdampr
+	url = https://github.com/cbw1243/usdampr
 	shallow = true
 	registered = true
