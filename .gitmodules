@@ -8,6 +8,11 @@
 	url = https://github.com/cbw1243/endoswitch
 	shallow = true
 	registered = true
+[submodule "rarms"]
+	path = rarms
+	url = https://github.com/cbw1243/rarms
+	shallow = true
+	registered = true
 [submodule "usdampr"]
 	path = usdampr
 	url = https://github.com/cbw1243/usdampr
