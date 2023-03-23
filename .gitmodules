@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CropScapeR"]
+	path = CropScapeR
+	url = https://github.com/cran/CropScapeR
+	shallow = true
+	registered = true
 [submodule "endoSwitch"]
 	path = endoSwitch
 	url = https://github.com/cbw1243/endoswitch
